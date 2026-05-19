@@ -36,5 +36,15 @@ El sistema sigue arquitectura orientada a objetos con separación en:
 ## UML
 Incluye diagramas de clases y casos de uso en /docs/uml
 
+## Capturas
+Las capturas del sistema se encuentran en:
+`/docs/screenshots`
+
+Incluyen:
+- ejecución del sistema
+- historial de Git
+- estructura del proyecto
+- diagramas UML
+
 ## Autor
-Proyecto académico - Desarrollo de software con IA
+Pablo Manuel Solano Salinas
