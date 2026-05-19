@@ -271,9 +271,7 @@ Incluyen:
 - historial Git,
 - ramas,
 - diagramas UML,
-- terminal funcionando.
-
----
+- estructura de archivos.
 
 # Autor
 
