@@ -37,4 +37,4 @@ El sistema sigue arquitectura orientada a objetos con separación en:
 Incluye diagramas de clases y casos de uso en /docs/uml
 
 ## Autor
-Proyecto académico - Desarrollo de software con IA
+Pablo Manuel Solano Salinas
