@@ -4,6 +4,7 @@ public class SleepStatistics {
 
     private int snoozeCount;
     private int successfulWakeUps;
+    private double averageSleepHours;
 
     public void registerSnooze(){
         snoozeCount++;
@@ -19,5 +20,13 @@ public class SleepStatistics {
 
     public int getSuccessfulWakeUps() {
         return successfulWakeUps;
+    }
+
+    public void updateSleepHours(double hours){
+        averageSleepHours = hours;
+    }
+
+    public double getAverageSleepHours(){
+        return averageSleepHours;
     }
 }
