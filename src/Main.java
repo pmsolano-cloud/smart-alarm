@@ -39,5 +39,13 @@ public class Main {
 
         manager.getAlarms()
                 .forEach(System.out::println);
+        
+        alarm.startRinging();
+
+        System.out.println("La alarma está sonando");
+
+        alarm.stop();
+
+        System.out.println("La alarma ha sido detenida");
     }
 }
